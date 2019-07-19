@@ -1,9 +1,9 @@
 """
-simply import the FizzBuzz program
+repeatedly import the FizzBuzz program
 """
 
-import fizzbuzz
-import fizzbuzz # valued only one time
+import fizzbuzz # evaluated only one time
+
 import fizzbuzz # so
 import fizzbuzz # they
 import fizzbuzz # will

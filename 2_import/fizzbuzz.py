@@ -7,7 +7,7 @@ say "FizzBuzz" if the number is multiple of 15(both 3 and 5)
 say the number in other cases
 """
 
-for i in range(40):
+for i in range(8):
     if i % 15 == 0:
         print("FizzBuzz")
     elif i % 5 == 0:
